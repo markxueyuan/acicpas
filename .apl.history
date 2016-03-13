@@ -1,0 +1,83 @@
+N ← 'Net Income'
+N 200
+x ← 18
+y ← 3 1985
+x y
+1 + x y
+z ← z + 10
+z
+z ← z + 10
+z
+z ← x y
+z
+z ← z + 10
+z
+x
+y
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+? 100
+⍳100
+⎕io
+3 4 ⍴ ← ⍳12
+3 4 ⍴ ⍳12
+⍴ 3 4 ⍴ ⍳12
+≡ 1
+≡ z
+bigz ← z z
+≡bigz
+    ∇myfunc
+[1]   'Type some numbers'
+[2]   n ← ⎕
+[3]   'Total is: ' +/ n
+   ∇
+myfunc
+∇myfunc
+)erase
+∇myfunc
+    ∇try1
+[1]   n ← ⎕
+[2]   'Total is: ' (+/ n)
+   ∇
+try1 1  3 5 7
+    ∇try2
+[1]   n ← ⎕
+[2]   'total is: ' (+/ n)
+   ∇
+try2
+)wsid tryagain
+)save
+)wsid
+)save tryagain
+)save 'acipas\tryagain'
+)vars
+)fns
+)erase myfunc
+)wsid 'acipas\tryagain'
+)wsid
+)save
+)wsid acipas\tryagain
+)save acipas\tryagain
+)clear
+)off
